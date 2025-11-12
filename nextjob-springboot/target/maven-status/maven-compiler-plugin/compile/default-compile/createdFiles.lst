@@ -1,0 +1,4 @@
+br\com\nextjob\controller\ApiController.class
+br\com\nextjob\service\MongoService.class
+br\com\nextjob\NextjobApiApplication.class
+br\com\nextjob\service\DatabaseService.class
